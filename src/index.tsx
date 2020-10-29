@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Canvas from './canvas';
+import Canvas from './copy';
 import './styles.css';
 
 function App() {
